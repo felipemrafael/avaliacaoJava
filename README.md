@@ -1,6 +1,14 @@
 # avaliacaoJava
 Avaliacao Java
 
+- Padrão MVC 
+- Java 1.8
+- JPA
+- MAVEN
+- DBH2
+- Spring Boot
+- Swagger para documentação dos Serviços - http://localhost:8082/swagger-ui.html
+
 Resposta 2º Pergunta do Teste
 
 O navegador monta o cabeçalho e corpo da requisição, informando a ação a ser executada.
